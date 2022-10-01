@@ -192,9 +192,13 @@ public class Paddle : MonoBehaviour
  ```
  
  ## Output:
+ ## Moving view:
  ![Screenshot (104)](https://user-images.githubusercontent.com/93434149/193394385-2f0902d8-dbe3-489f-bab5-d774f93de23b.png)
-
+ ## Game over view:
  ![Screenshot (100)](https://user-images.githubusercontent.com/93434149/193394389-b82157c7-82d1-4703-8724-75b8c38d0382.png)
+ ## Game winner:
+ ![Screenshot 2022-10-01 111008](https://user-images.githubusercontent.com/93434149/193394496-f1c9ad93-2fda-4079-bd66-d57557e215b2.jpg)
+
 
  ## Result:
  A ping pong game using C# program in unity is successfully created.
